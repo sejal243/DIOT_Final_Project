@@ -67,7 +67,7 @@ The **IoT Smart Alarm Clock** successfully integrates **Google Calendar, real-ti
 
 ---
 
-🔗 **Project Repository:** https://github.com/Amitgit01/DIOT_final_project.git 
+🔗 **Project Repository:** [https://github.com/sejal243/DIOT_Final_Project.git]
 
 🚀 **Developed by:** 
 Amit Chaurasiya,
